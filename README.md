@@ -12,7 +12,7 @@ My journey in the college of Engeering and computing has lead me to gain an inte
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Website on AI technology                     | <a href="https://mason.gmu.edu/~rherakly/index.HTML</a>|
-|  | <a </a>|
+| Python Project on a Wedding planner | |
 |             | |
 | | |
 
